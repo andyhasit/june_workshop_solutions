@@ -1,0 +1,8 @@
+id, email, country, q1, q2, q3, q4
+1, mrs.janine@hogwarts.ac.uk, england, 0, 0, 1, 0
+2, tom.davies@melvins.ac.uk, wales, 1, 1, 0, 0
+3, howard.marks@hotmail.co.uk, scotland, 0, 1, 1, 1
+4, howard.marks@hotmail.co.uk, wales, 0, 0, 1, 1
+5, janet.fairfield@fastmail.me, england, 0, 1, 1, 0
+6, ellie_mcintyre@name.me, scotland, 1, 0, 1, 0
+7, arthur.dent@hotmail.com, england, 1, 1, 1, 1
