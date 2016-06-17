@@ -1,3 +1,13 @@
+def remove_duplicates_basic(items):
+    unique_entries = []
+    for i items:
+        if not i in unique_entries:
+            unique_entries.append(i)
+    return unique_entries
+        
+    list(set(items))  
+        
+
 def remove_duplicates(items):
     ids_to_remove = []
     unique_entries = []
